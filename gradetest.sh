@@ -1,16 +1,10 @@
 #!/bin/sh
 
-echo "****"
-echo "****"
-echo "****"
-echo "**** Pulling changes from gradetest.sh"
-echo "****"
-echo "****"
 
+echo ""
 echo "**** Running apt list --installed"
+echo ""
 
 apt list --installed
 
-echo "****"
-echo "****"
-echo "****"
+echo ""
