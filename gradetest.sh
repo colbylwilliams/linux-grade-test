@@ -6,7 +6,9 @@ echo "****"
 echo "**** Pulling changes from gradetest.sh"
 echo "****"
 echo "****"
-echo "**** Boom"
+
+dpkg --list
+
 echo "****"
 echo "****"
 echo "****"
