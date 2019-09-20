@@ -7,7 +7,9 @@ echo "**** Pulling changes from gradetest.sh"
 echo "****"
 echo "****"
 
-dpkg --list
+echo "**** Running apt list --installed"
+
+apt list --installed
 
 echo "****"
 echo "****"
